@@ -1,0 +1,83 @@
+{
+    "couses": [
+      {
+        "_id":"123",
+        "name": "Cybersecurity Essentials",
+        "image": "https://example.com/cybersecurity-essentials.jpg",
+        "availableSeats": 25,
+        "price": "$150",
+        "videoLink": "https://youtu.be/abc123",
+        "description": "An introductory course covering essential concepts and practices in cybersecurity.",
+        "instructorName": "Alice Johnson",
+        "instructorEmail": "alice.johnson@example.com",
+        "status": "approved",
+        "submitted": "2024-03-10T08:00:00.000Z",
+        "totalEnrolled": 10,
+        "reason": null
+      },
+      {
+        "name": "Data Science Foundations",
+        "image": "https://example.com/data-science-foundations.jpg",
+        "availableSeats": 30,
+        "price": "$200",
+        "videoLink": "https://youtu.be/def456",
+        "description": "A comprehensive course covering the fundamentals of data science, including statistics, data analysis, and machine learning.",
+        "instructorName": "Bob Smith",
+        "instructorEmail": "bob.smith@example.com",
+        "status": "approved",
+        "submitted": "2024-03-05T10:30:00.000Z",
+        "totalEnrolled": 15,
+        "reason": null
+      },
+      {
+        "name": "Cloud Computing Basics",
+        "image": "https://example.com/cloud-computing-basics.jpg",
+        "availableSeats": 20,
+        "price": "$100",
+        "videoLink": "https://youtu.be/ghi789",
+        "description": "An introductory course providing an overview of cloud computing technologies and services.",
+        "instructorName": "Charlie Brown",
+        "instructorEmail": "charlie.brown@example.com",
+        "status": "approved",
+        "submitted": "2024-03-01T12:00:00.000Z",
+        "totalEnrolled": 8,
+        "reason": null
+      },
+      {
+        "name": "Full Stack Web Development",
+        "image": "https://example.com/full-stack-web-development.jpg",
+        "availableSeats": 35,
+        "price": "$250",
+        "videoLink": "https://youtu.be/jkl012",
+        "description": "A comprehensive course covering both front-end and back-end web development technologies and frameworks.",
+        "instructorName": "David Miller",
+        "instructorEmail": "david.miller@example.com",
+        "status": "approved",
+        "submitted": "2024-03-07T09:45:00.000Z",
+        "totalEnrolled": 18,
+        "reason": null
+      },
+      {
+        "name": "Artificial Intelligence Fundamentals",
+        "image": "https://example.com/artificial-intelligence-fundamentals.jpg",
+        "availableSeats": 40,
+        "price": "$300",
+        "videoLink": "https://youtu.be/mno345",
+        "description": "An introductory course providing an overview of artificial intelligence concepts, algorithms, and applications.",
+        "instructorName": "Emma White",
+        "instructorEmail": "emma.white@example.com",
+        "status": "approved",
+        "submitted": "2024-03-03T11:15:00.000Z",
+        "totalEnrolled": 12,
+        "reason": null
+      }
+      
+    ],
+    "comments": [
+      { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
